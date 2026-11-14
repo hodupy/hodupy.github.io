@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: Hodupy의 블로그 # the main title
 
-tagline: 수학, 컴퓨터 전공생의 블로그 # it will display as the subtitle
+tagline: 이것저것 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  수학, 보안, 인공지능 분야와 간단한 책 리뷰를 다룹니다.
+  coverage - Book Review, Mathematics, CS, etc.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
